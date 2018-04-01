@@ -64,7 +64,7 @@
           <div class="form_settings">
             <p><span><strong>user id</strong></span><input type="text" name="sid" value="" /></p><br><br>
             <p><span><strong>Password</strong></span><input type="password" name="spassword" value="" /></p><br><br>
-            <p style="padding-top: 15px"><span>&nbsp;</span><input class="submit" type="submit" name="name" value="button" /></p>
+            <p style="padding-top: 15px"><span>&nbsp;</span><input class="submit" type="submit" name="name" value="submit" /></p>
           </div>
         </form><br><br>
         <a href="contact.html">forget password ?</a>
