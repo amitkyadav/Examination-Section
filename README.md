@@ -1,5 +1,6 @@
 # Examination-Section
 Academic Project for Examination Section of our college.
+Project Members: Amit Kumar, Amit Kumar Tiwari
 
 
 ![mainpage](https://user-images.githubusercontent.com/28644764/38176213-ca4f3650-3608-11e8-8f97-d34452090a0e.PNG)
